@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=serhiiherasymiuk)](https://github.com/serhiiherasymiuk/github-readme-stats)
 <!--
 **serhiiherasymiuk/serhiiherasymiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
